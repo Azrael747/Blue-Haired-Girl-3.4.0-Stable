@@ -181,5 +181,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - most logs do not specify what user invoked the command
 
-![logo](./BHG.png)
-# Discord-bot
+![logo](./BlueHairedGirl.png)
