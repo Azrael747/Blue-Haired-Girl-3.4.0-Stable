@@ -171,7 +171,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - not a bug in our program, but a user bug:
 
-> prefix is widely used, and until it can be altered by users should be changed to something more specific like b! or bh!
+- prefix is widely used, and until it can be altered by users should be changed to something more specific like b! or bh!
 
 - certain logs do not indicate targets (such as the nuke command)
 
