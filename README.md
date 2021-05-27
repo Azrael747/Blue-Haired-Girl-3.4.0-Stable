@@ -138,6 +138,23 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+## <a name="v5"></a>Expected in version 5.0.0 (The Premium Update)
+- Youtube/Twitch notifications (P)
+- Customizable announcments (P)
+- Customizable welcome image and message (P)
+- Reaction Roles 
+- Twitter notifications (P)
+- Gamble feature with currency
+- Birthday announcments
+- Lyrics for music
+- Slash commands with enable/disable feature
+- Levels overhaul (Custom xp rate, custom level up message, auto-role on certain level, set level up announcment channel, rank card, no-xp roles and channels, etc.) (P-ish)
+- Disabling unwanted commands afer setup
+- Application command with configurable applications (Will work like tickets) (P)
+- Embed (similar to announcments but with custamization)
+- Logs Customization
+
+---------------------------------------------------------------------------------------------------------------------------
 ### <a name="current-issues"></a>Current Issues
 
 - music bot loop function only loops current song, not entire queue
